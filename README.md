@@ -8,7 +8,9 @@ For this project the following data-set has been used:
 #### *Name of the powerBI file:* Store Sales Dashboard.pbix
 
 ##### i. Total Sales Dashboard
-![Total Sales Dashboard]
+![Total Sales Dashboard](https://github.com/israksadi28/
+Power-BI-dashboard-for-Super-Store-Sales/blob/main/Total Sales Dashboard.JPG?raw=true)
 
 ##### ii. Region & State Dashboard
-![Region & State Dashboard]
+![Region & State Dashboard]((https://github.com/israksadi28/
+Power-BI-dashboard-for-Super-Store-Sales/blob/main/Region & State Dashboard.JPG?raw=true))
